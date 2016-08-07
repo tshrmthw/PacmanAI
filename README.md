@@ -19,4 +19,4 @@ Probabilistic inference in a hidden Markov model tracks the movement of hidden g
 Implementation includes standard machine learning classification algorithms using Naive Bayes, Perceptron, and MIRA models to classify digits. Extention of this has been coded up as well by implementing a behavioral cloning Pacman agent.
 
 
-##### Implementation of various AI techniques to solve pacman game. It is part of CS188 AI course from UCB. more info at http://ai.berkeley.edu/
+##### Implementation of various AI techniques to solve pacman game with specific improvements on base code sections. It is part of CS188 AI course from UCB. More information on the base project can be found at http://ai.berkeley.edu/
